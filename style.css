@@ -1,5 +1,4 @@
 
-
 body{
   background-color: #E7F9E4;
 
@@ -169,12 +168,14 @@ display: flex;
 }
 .contact{
   width: 100%;
-  font-size: 30pxllll;
-  height: 200px;
+  font-size: 20px;
+  height: 400px;
   border-radius: 20px;
   background-color: #004F44;
   color: white;
+  padding-left: 30px;
 }
+
 #ctc{
   text-align: center;
   color:white;
@@ -182,4 +183,6 @@ display: flex;
 
 
 }
-
+.class:hover{
+  
+}
