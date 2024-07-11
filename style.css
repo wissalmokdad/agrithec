@@ -167,7 +167,7 @@ display: flex;
   border-radius: 10px;
 }
 .contact{
-  width: 100%;
+  width: 90%;
   font-size: 20px;
   height: 400px;
   border-radius: 20px;
@@ -181,8 +181,24 @@ display: flex;
   color:white;
   font-size: 40px;
 
-
+.disp{
+  display:inline;
+}
 }
 .class:hover{
   
 }
+.mondy{
+     
+    margin-left: 20px;
+    color: white;
+    width: 400px;
+    background-color: #004F44;
+    margin: 0%;
+    margin-top: 15px;
+    font-size: 40px;
+    padding-left:100px;
+    font-style: verdana;
+    border-radius: 10px;
+}
+
